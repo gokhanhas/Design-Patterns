@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"GaussianElimination"},{"p":"<Unnamed>","l":"LinearEquation"},{"p":"<Unnamed>","l":"LinearSolver"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"MatrixInversion"}];updateSearchResults();
